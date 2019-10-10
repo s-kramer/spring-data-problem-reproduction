@@ -1,5 +1,5 @@
 package com.example.springdatademo;
 
-interface CustomMyEntityRepository {
+interface MyEntityRepositoryCustom {
     MyEntity myCustomFindQuery();
 }

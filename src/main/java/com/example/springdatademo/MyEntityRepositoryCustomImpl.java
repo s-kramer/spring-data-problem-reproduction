@@ -3,7 +3,7 @@ package com.example.springdatademo;
 import org.springframework.stereotype.Component;
 
 @Component
-class CustomMyEntityRepositoryImpl implements CustomMyEntityRepository {
+class MyEntityRepositoryCustomImpl implements MyEntityRepositoryCustom {
 
 
     @Override
